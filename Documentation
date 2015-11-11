@@ -1,0 +1,7 @@
+Documentation
+
+
+This is a simple way to generate and then view descriptive statistics for several basic random distribution types. You can adjust the size of the distribution with the text box on the left and choose among the three distribution types via the radio buttons on the right.  The random uniforms are generated in a range from 1 to 200.  The normals are  generatedwith mean  100 and standard deviation 100.  The exponentialdistribution is generated with rate .05.
+
+A histogram will beplotted of the resulting distribution and the mean and standard deviation of the distribution will be displayed on the left.
+
